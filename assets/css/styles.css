@@ -1,0 +1,17 @@
+body{
+  text-align:center;
+  background-color:pink;
+  font-family:sans-serif;
+}
+#headerp{
+  font-size:100px;
+}
+#headerb{
+  height:50px;
+  width:150px;
+  border-radius:20px;
+  border:0px;
+}
+#secret{
+  color:red;
+}
